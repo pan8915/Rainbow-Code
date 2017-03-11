@@ -7,7 +7,7 @@ var font;
 var vehicles = [];
 
 function preload() {
-  font = loadFont('AvenirNextLTPro-Demi.otf');
+  font = loadFont('http://127.0.0.1:8887/AvenirNextLTPro-Demi.otf');
 }
 
 function setup() {
